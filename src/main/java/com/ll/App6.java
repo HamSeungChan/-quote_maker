@@ -53,14 +53,14 @@ public class App6 {
     }
 }
 
-class Storage{
-    String wiseSaying;
-    String author;
-    int number;
-
-    public Storage(String wiseSaying, String author,int number) {
-        this.wiseSaying = wiseSaying;
-        this.author = author;
-        this.number = number;
-    }
-}
+//class Storage{
+//    String wiseSaying;
+//    String author;
+//    int number;
+//
+//    public Storage(String wiseSaying, String author,int number) {
+//        this.wiseSaying = wiseSaying;
+//        this.author = author;
+//        this.number = number;
+//    }
+//}
